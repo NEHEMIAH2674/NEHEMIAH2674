@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Nehemiah Onyinge 👋
 
-<!--
-**NEHEMIAH2674/NEHEMIAH2674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Analytics Engineer based in Nairobi, Kenya.
+I design and build scalable data infrastructure that helps teams make better decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Work With
+
+- **Warehouse:** BigQuery
+- **Transformation:** dbt (Certified)
+- **Orchestration:** Apache Airflow
+- **Languages:** SQL · Python
+- **Visualisation:** Tableau · Looker Studio
+
+---
+
+## 🏗️ Currently Working On
+
+Building and maintaining data pipelines at **Food 4 Education** —
+end-to-end, from ingestion pipelines through to analytics-ready fact and dimension tables
+that power business decision-making.
+
+---
+
+## 📬 Get In Touch
+
+- 📧 nehemiahonyinge811@gmail.com
+- 💼 [linkedin.com/in/nehemiah-onyinge](https://linkedin.com/in/nehemiah-onyinge)
+- 📞 +254 717 205 956
