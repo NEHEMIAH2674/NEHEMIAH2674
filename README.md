@@ -5,17 +5,17 @@ I design and build scalable data infrastructure that helps teams make better dec
 
 ---
 
-## 🔧 What I Work With
+## What I Work With
 
 - **Warehouse:** BigQuery
 - **Transformation:** dbt (Certified)
 - **Orchestration:** Apache Airflow
 - **Languages:** SQL · Python
-- **Visualisation:** Tableau · Looker Studio
+- **Visualisation:** Tableau · Looker Studio · Metabase · Power BI · QuickInsights
 
 ---
 
-## 🏗️ Currently Working On
+## Currently Working On
 
 Building and maintaining data pipelines at **Food 4 Education** —
 end-to-end, from ingestion pipelines through to analytics-ready fact and dimension tables
