@@ -28,7 +28,7 @@ I own the data platform end-to-end — not just orchestrating pre-built connecto
 
 ## Currently Working On
 
-Building and maintaining the data platform at **Food 4 Education** — end-to-end, from ingestion pipelines through to analytics-ready fact and dimension tables that power business decision-making across the organization.
+Building and maintaining the data platforms — end-to-end, from ingestion pipelines through to analytics-ready fact and dimension tables that power business decision-making across the organization.
 
 ---
 
