@@ -8,7 +8,7 @@ I design, build, and own end-to-end data infrastructure — from custom API inge
 
 ## What I Work With
 
-- **Warehousing & Modeling:** BigQuery · dimensional modeling · fact/dimension design
+- **Warehousing & Modeling:** BigQuery · Azure · AWS · dimensional modeling · fact/dimension design
 - **Transformation:** dbt (Certified)
 - **Orchestration:** Apache Airflow
 - **Ingestion & Integrations:** Custom API integrations (auth, pagination, rate limiting, retry logic)
